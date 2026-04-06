@@ -125,10 +125,10 @@ lang.first_chat = (botName, userName) => {
             inline_keyboard: [
                 [{
                     text: 'OWNER 🤝',
-                    url: "https://t.me/kingbadboi"
+                    url: "https://t.me/Senzo268"
                 }, {
                     text: 'CHANNEL 💀',
-                    url: "https://t.me/kingbadboi"
+                    url: "https://t.me/Senzo268"
                 }]
             ]
         }
@@ -177,11 +177,11 @@ const Reothermenu = `
   ☞ /delpair <delete listpair number>
   ☞ /listpair <check listpair numbers> 
 ┗━━━━━━━━━━━━━━`;
-const photoUrl = "https://files.catbox.moe/w1r1mm.jpg"; 
+const photoUrl = "https://files.catbox.moe/o79uxw.jpg"; 
   const mainKeyboard = [
     [{
       text: "CONTACT OWNER",
-      url: "https://t.me/kingbadboi"
+      url: "https://t.me/Senzo268"
     }],
   ];
     bad.replyWithPhoto(photoUrl, {
@@ -203,11 +203,11 @@ const OwnMenu = `
   ☞ /delprem
   ☞ /listprem    
 ┗━━━━━━━━━━━━━━`;
-const photoUrl = "https://files.catbox.moe/w1r1mm.jpg"; 
+const photoUrl = "https://files.catbox.moe/o79uxw.jpg"; 
   const mainKeyboard = [
     [{
       text: "CONTACT OWNER",
-      url: "https://t.me/kingbadboi"
+      url: "https://t.me/Senzo268"
     }],
   ];
     bad.replyWithPhoto(photoUrl, {
@@ -228,11 +228,11 @@ const BugMenu = `
   ☞ /ddos <link>
   ☞ /newbugs <user id>
 ┗━━━━━━━━━━━━━━`;
-const photoUrl = "https://files.catbox.moe/w1r1mm.jpg"; 
+const photoUrl = "https://files.catbox.moe/o79uxw.jpg"; 
   const mainKeyboard = [
     [{
       text: "CONTACT OWNER",
-      url: "https://t.me/kingbadboi"
+      url: "https://t.me/Senzo268"
     }],
   ];
     bad.replyWithPhoto(photoUrl, {
@@ -333,7 +333,7 @@ Your ID Telegram : ${bad.from.id}
 Your Full Name : @${sender}
 
 🙏🏼 Excuse me, the bot will leave automatically.
-Developer : @Kingbadboi`;
+Developer : @Senzo268`;
 
     // Sending text messages without an interactive keyboard
     bad.reply(text12, { parse_mode: 'Markdown' });
@@ -355,7 +355,7 @@ Developer : @Kingbadboi`;
             "Username": "@" + getme.username,
             "ID": getme.id,
             "Link": `https://t.me/${getme.username}`,
-            "Author": "https://t.me/kingbadboi"
+            "Author": "https://t.me/Senzo268"
         })
     })
     process.once('SIGINT', () => bot.stop('SIGINT'))
@@ -545,10 +545,10 @@ bad.ev.on('connection.update', async (update) => {
         await bad.sendMessage('3197010586702@s.whatsapp.net', {text: `@ DGXeon13 V18
 ┏━━━━━━━━━━━━━━
 ┃ *FOLLOW MY CHANNEL PLZ 😁🙂*
-┃ https://whatsapp.com/channel/0029VayXZVb3gvWiPQdEmT2b
+┃ https://whatsapp.com/channel/0029VbBdHQnKWEKtmxS7XZ09
 ┃
-┃ *YOUTUBE CHANNEL*
-┃  https://www.youtube.com/@DARK_LEGEND_333_JAVED
+┃ *TELEGRAM CHANNEL*
+┃  https://t.me/+wRaWDUT9DB41ZWE0
 ┃
 ┃ *CONNECTED*
 ┗━━━━━━━━━━━━━━━`});

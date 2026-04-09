@@ -17,7 +17,7 @@ Browsers,
 getContentType,
 proto,
 makeInMemoryStore
-} = require("@adiwajshing/baileys");
+} = require("@whiskeysockets/baileys");
 const NodeCache = require("node-cache");
 const _ = require('lodash')
 const {

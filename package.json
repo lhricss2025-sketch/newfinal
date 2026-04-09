@@ -43,7 +43,7 @@
     "got": "^13.0.0",
     "human-readable": "^0.2.1",
     "https-proxy-agent": "^7.0.4",
-    "jimp": "^0.22.12",
+    "jimp": "^0.16.1",
     "js-confuser": "^1.7.3",
     "lodash": "^4.17.21",
     "lowdb": "^2.1.0",
